@@ -1,0 +1,22 @@
+Endpoint,Status Code,Latency (sec),Valid Response,Performance Issue
+1,200,1.2488,True,True
+2,200,1.0766,True,True
+3,200,1.0796,True,True
+4,200,1.3992,True,True
+5,200,1.4321,True,True
+6,200,1.0747,True,True
+7,200,1.3644,True,True
+8,200,1.3249,True,True
+9,200,1.07,True,True
+10,200,1.3749,True,True
+11,200,1.3399,True,True
+12,200,1.1294,True,True
+13,200,1.0809,True,True
+14,200,1.3561,True,True
+15,200,1.3297,True,True
+16,200,1.0698,True,True
+17,200,1.3303,True,True
+18,200,1.3366,True,True
+19,200,1.0764,True,True
+9999,404,1.0728,False,True
+abc,404,1.3325,False,True
